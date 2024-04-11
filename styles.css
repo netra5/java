@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.animal {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
+
+#animal-1 {
+  background-image: url("cat.jpeg");
+}
+
+#animal-2 {
+  background-image: url("OIP.jpeg");
+}
